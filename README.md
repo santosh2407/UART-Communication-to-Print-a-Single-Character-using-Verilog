@@ -1,4 +1,4 @@
-# UART-Communication-to-Print-a-Single-Character-using-Verilog
+# UART Communication to Print a Single Character using Verilog
 - UART, or universal asynchronous receiver-transmitter, is one of the most used device-to-device communication protocols. This article shows how to use UART as a hardware communication protocol by following the standard procedure. When properly configured, UART can work with many different types of serial protocols that involve transmitting and receiving serial data. In serial communication, data is transferred bit by bit using a single line or wire. In two-way communication, we use two wires for successful serial data transfer. Depending on the application and system requirements, serial communications needs less circuitry and wires, which reduces the cost of implementation.
 
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/99958597/230736540-8019dd26-548e-4d59-9f97-1434802e7ed9.png">
