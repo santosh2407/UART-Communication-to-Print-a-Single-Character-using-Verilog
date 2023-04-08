@@ -14,7 +14,7 @@
   
 - The main purpose of a transmitter and receiver line for each device is to transmit and receive serial data intended for serial communication.
 
-- In this project, I used Verilog to construct a UART communication module that allows us to print a single alphabetic character. This project's primary objective is to realize how the UART communication protocol functions and how characters can be printed using UART.
+- In this project, I have used Verilog to construct a UART communication module that allows us to print a single alphabetic character. This project's primary objective is to realize how the UART communication protocol functions and how characters can be printed using UART.
 
 
 
